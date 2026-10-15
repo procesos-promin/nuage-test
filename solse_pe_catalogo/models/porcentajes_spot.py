@@ -76,6 +76,7 @@ PORCENTAJES_SPOT = {
 	'027': (4.0,  'Servicio de transporte de bienes por vía terrestre'),
 	'030': (4.0,  'Contratos de construcción'),
 	'037': (12.0, 'Demás servicios gravados con el IGV'),
+	'999': (0.0,  'TEST'),
 	'040': (4.0,  'Primera venta de inmuebles gravados con el IGV'),
 }
 
@@ -90,6 +91,7 @@ CODIGOS_DEROGADOS = {
 	'018': 'Embarcaciones pesqueras — hasta el 31/12/2014',
 	'029': 'Algodón en rama sin desmotar — hasta el 31/12/2014',
 	'033': 'Espárragos — hasta el 31/12/2014',
+	'999': 'test123',
 	'038': 'Espectáculos públicos no deportivos — hasta el 31/12/2014',
 }
 

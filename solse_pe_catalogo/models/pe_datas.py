@@ -27,4 +27,5 @@ class PeDatas(models.Model):
 		if datas:
 			res = [(data.code, data.name) for data in datas]
 		return res
-		
+
+#test de modificaciones
